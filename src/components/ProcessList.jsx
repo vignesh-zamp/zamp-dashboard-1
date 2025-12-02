@@ -96,7 +96,7 @@ const ProcessList = () => {
                                 >
                                     <td className="px-4 py-3 whitespace-nowrap">
                                         <Check
-                                            className="w-4 h-4 text-green-600 border border-green-600 rounded-sm p-[1px]"
+                                            className="w-4 h-4 text-green-600"
                                         />
                                     </td>
 
